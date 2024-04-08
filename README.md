@@ -1,4 +1,4 @@
-This project exploring patients breast cancer record and i use machine learning to discover insight from the data and predict if a patient have breast cancer or not.
+This project exploring patients breast cancer record and i use machine learning to discover insight from the data and predict if a patient has breast cancer or not.
 
 I used 3 algorightms - Logistic Regression, Decision Tree and Random Forest
 
